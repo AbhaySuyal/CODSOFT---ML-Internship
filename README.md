@@ -5,9 +5,9 @@ Welcome to my repository documenting a month-long machine learning internship at
 
 ## Internship Overview
 
-**Duration:** 1 Month [Aug 5 - Sept 5]
+**Duration:** 1 Month [Aug 5 - Sept 5] <br>
 **Intern:** Abhay Suyal  
-**Contact:**
+
 
 
 ## Projects
