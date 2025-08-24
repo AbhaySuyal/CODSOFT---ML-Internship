@@ -5,11 +5,10 @@ Welcome to my repository documenting a month-long machine learning internship at
 
 ## Internship Overview
 
-**Duration:** 1 Month [Nov 10 - Dec 10]
-**Intern:** Shishir Sharma Rijal  
+**Duration:** 1 Month [Aug 5 - Sept 5]
+**Intern:** Abhay Suyal  
 **Contact:**
-- LinkedIn: [Shishir Rijal](https://www.linkedin.com/in/ShishirRijal)
-- Email: ccrrizal@gmail.com
+
 
 ## Projects
 
